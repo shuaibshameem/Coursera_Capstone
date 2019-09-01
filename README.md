@@ -15,6 +15,6 @@ contains all files related to the capstone project
 
 **Coursera_Capstone_Notebook.html** provides a more accessible preview of the JupyterLabs notebook
 
-**Coursera Capstone Report.docx** is my final report covering the business problem to be tackled, how it was tackled, where the data came from, how it was processed, and my findings from the processed data.
+**Coursera Capstone Report.docx** is my final report covering the business problem to be tackled, how it was tackled, where the data came from, how it was processed, and my findings from the processed data (PDF also available)
 
-**Coursera Capstone Presentation.pptx** is an example of a slideshow I would prepare if needed to present my findings
+**Coursera Capstone Presentation.pptx** is an example of a slideshow I would prepare if needed to present my findings (PDF also available)

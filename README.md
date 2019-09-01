@@ -1,13 +1,12 @@
-# Coursera_Capstone
-## Bubble Tea Expansion
+# Coursera_Capstone - Bubble Tea Expansion
 
 This folder contains all assignments related to my capstone course for IBM's Data Science certification on Coursera
 
-### Folders
-####Course Assignments
+## Folders
+###Course Assignments
 contains a notebook for getting acquainted with the Foursquare API, which was to be utilized in the Capstone project
 
-####Capstone Project 
+###Capstone Project 
 contains all files related to the capstone project
 
 *Coursera_Capstone.ipynb* is the JupyterLabs notebook utilized to gather and process the data
